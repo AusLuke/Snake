@@ -1,5 +1,4 @@
-# gHubPagesSnake
+# Snake!
+HTML5 and JavaScript basic implementation of Snake.
 
-Testing use of github pages for small website deployment.
-
-### Play Snake! https://ausluke.github.io/gHubPagesSnake/index.html
+### Play Here: https://ausluke.github.io/gHubPagesSnake/index.html
